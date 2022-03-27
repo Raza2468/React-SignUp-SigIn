@@ -1,0 +1,29 @@
+#form {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#body{
+    /* height: 747px; */
+    /* height: 787px; */
+background-color: #fff;
+
+}
+
+#colourText{
+    color: #29aae1;
+    font-family: Lato,sans-serif;
+}
+
+#button{
+    background-color: #29aae1;
+}
+.logo{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
