@@ -1,6 +1,7 @@
+import { Dashboard } from "./Dashboard"
 import { Header } from "./Header"
 import { Left } from "./LeftNavbar"
-import { RightNavbar } from "./RightNavbar"
+import { Right } from "./RightNavbar"
 
 
 
@@ -9,7 +10,8 @@ export const HomeDashboard = () => {
         <div>
             <Header />
             <Left />
-            {/* <RightNavbar /> */}
+            <Right />
+            <Dashboard />
         </div>
     )
 
